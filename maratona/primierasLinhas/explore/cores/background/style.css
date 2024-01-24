@@ -1,0 +1,35 @@
+* {margin: 0;}
+
+/*header {
+    /* height: 100px; /*Tamanho da imagem
+    border: 7px dashed rgb(44, 42, 42);
+    padding: 16px; */
+
+main {
+    color: purple;
+    padding: 8px;
+
+    background-color: rgb(55, 100, 50);
+    background-image: url(https://sm.ign.com/t/ign_br/cover/g/game-of-th/game-of-thrones-house-of-the-dragon_m7na.128.jpg);
+    /* background-repeat: repeat-y; repetir*/
+    background-repeat: no-repeat;
+    background-position: center; /*#para ficar no centro*/
+    background-size: contain;
+    background-origin: content-box;
+    background-clip: content-box;
+    background-attachment: fixed;
+
+
+    /*para colocar varias background, só add virgulas*/
+    background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 0, 0,0.2))
+        url(https://sm.ign.com/t/ign_br/cover/g/game-of-th/game-of-thrones-house-of-the-dragon_m7na.128.jpg)
+    no-repeat right top / 50px border-box content-box fixed;
+
+    /* background: radial-gradient(red, yellow, green) */
+    }
+
+    /* background: rgb(162, 50, 50) url(https://sm.ign.com/t/ign_br/cover/g/game-of-th/game-of-thrones-house-of-the-dragon_m7na.128.jpg) no-repeat right top / 500px border-box content-box scroll; */
+
+    /* background: linear-gradient (rgba(255, 255, 255, 0),rgba (255, 0, 0, 0.2)), */
+
+    

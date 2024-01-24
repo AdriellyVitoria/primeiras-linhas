@@ -1,0 +1,50 @@
+“5 usuários descobrirão 80% dos problemas”
+
+# Qual o objetivo do seu estudo?
+*Obs: quantos participantes preciso incluir em um teste de usabilidade?*
+*Estudo de usabilidade é descobrir problemas no produto
+*Qual é o mínimo de problemas que você quer encontrar no produto?
+
+# Mas para testes mais informais que fazemos “dentro de casa”, a regra que costumo usar é a seguinte:
+
+-> Parto do estudo básico de Nielsen: 5 participantes
+-> Considero o estágio atual do produto e quantos problemas eu espero encontrar ali — e -> adiciono mais alguns participantes caso sinta que o produto está com muitos problemas
+Considero o objetivo do teste: se for para comparar duas versões, adiciono mais alguns participantes para balancear questões subjetivas
+-> Considero a complexidade da atividade: se a tarefa for muito complexa, adiciono mais alguns participantes e considero dividir as baterias de testes, atribuindo tarefas diferentes para cada grupo
+
+# E não responde bem perguntas do tipo:
+
+A maioria das pessoas vai pela busca ou pelo menu? (nesse caso, olhe as métricas)
+Que cor de botão converte melhor? Vamos fazer um teste comparativ… (faça um teste A/B)
+Tenho várias opções de nome para o meu produto, queria ver o que as pessoas acham… (faça um grupo de discussão)
+
+# 5 formas de testes de usabilidade
+
+1. Descoberta de problemas
+*2. Benchmark*
+Os testes de usabilidade de benchmark são empregados para estabelecer parâmetros de comparação entre diferentes versões de alguma plataforma.
+Isso permite uma análise completa sobre dois elementos diferentes e a experiência do usuário em cada um deles.
+Sua principal função, como você deve imaginar, é realizar escolhas que beneficiem uma melhor utilização.
+
+*3. Teste competitivo*
+é muito relevante se você quiser traçar um paralelo entre o seu produto e o do concorrente.
+Esse formato tem muito sucesso quando utilizado com interfaces de sucesso no mercado.
+Quando as versões são equipadas, você se habilita a perceber possíveis melhorias que podem deixá-lo um passo à frente dos competidores.
+
+*4. Eye-tracking*
+Os heatmaps são ferramentas que analisam o movimento do mouse do usuário, sendo muito utilizados em vários dos métodos aqui descritos.
+Nesse caso, eles criam mapas de calor, os quais indicam por onde os participantes dos testes passaram o cursor.
+No entanto, esse processo pode apresentar algumas falhas.
+Isso porque nem sempre o mouse acompanha o movimento dos olhos.
+Para resolver esse problema, existe o eye-tracking.
+São aparelhos mais complexos e caros, mas muito efetivos.
+Eles avaliam a movimentação ocular do usuário e, assim, revelam informações importantes sobre a usabilidade.
+
+*5. Teste de aprendizado*
+Já os testes de aprendizado apresentam uma estrutura um tanto quanto diferente.
+O mais comum em testes de usabilidade é a experimentação por meio de uma pessoa que lida com a ferramenta pela primeira vez.
+Ou seja, para realizar uma tarefa específica, a pessoa terá que começar do zero.
+Entretanto, em alguns casos, o realizador do teste pode desejar um público que já lidou com a plataforma.
+Isso significa que o conhecimento empírico passa a ser considerado.
+Assim, o usuário terá que realizar a mesma tarefa diversas vezes e, com isso, se avalia a curva de aprendizado.
+
